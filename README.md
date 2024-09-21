@@ -83,4 +83,5 @@ After generating bounding boxes, YOLOv3 applies **Non-Maximum Suppression (NMS)*
 
 ### Credits 📝
 
+-   Understand the YOLOv3 architecture in-Depth from [youtube video](https://www.youtube.com/watch?v=9fhAbvPWzKs)
 -   YOLOv3 architecture explained with inspiration from [this article on Medium](https://medium.com/data-reply-it-datatech/yolo-v3-for-object-detection-f9f5637cf428).
