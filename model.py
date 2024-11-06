@@ -125,7 +125,7 @@ class YOLOv3(nn.Module):
                     CNNBlock(
                         in_channels,
                         out_channels,
-                        kernel_size = kernel_size
+                        kernel_size = kernel_size,
                         stride = stride,
                         padding=1 if kernel_size == 3 else 0,
                     )
